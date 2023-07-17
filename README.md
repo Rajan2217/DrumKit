@@ -18,7 +18,7 @@ You can try out the Drum Kit online by clicking [here](https://rajan2217.github.
 ## How to Play
 
 1. Visit the [live demo](https://rajan2217.github.io/DrumKit/) of the Drum Kit in your web browser.
-2. Press the keys "W," "S," "D," "J," "K," and "L" on your keyboard to play the corresponding instrument sounds.
+2. Press the keys "W," "A," "S," "D," "J," "K," and "L" on your keyboard to play the corresponding instrument sounds.
 3. Experiment with different combinations of keys to create your beats and enjoy the music-making experience.
 
 ## Technologies Used
